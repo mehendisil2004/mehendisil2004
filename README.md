@@ -22,9 +22,8 @@
 
 ## 🍥 Languages and Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=false) </br>
+![](https://github-readme-stats.vercel.app/api?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehendisil2004&theme=omni&hide_border=true) <br>
 <br>
 
 ## ☁️ Connent with me:
