@@ -3,7 +3,7 @@
 
 ## 🤍 About me:
 <div>
-  <img src="https://i.pinimg.com/originals/6e/3b/e7/6e3be714f3b0361417dd8b4d678a70ea.gif" alt="MasterHead" width="150" height="150" align="right"/>
+  <img src="https://i.pinimg.com/originals/6e/3b/e7/6e3be714f3b0361417dd8b4d678a70ea.gif" alt="MasterHead" width="150" align="right"/>
   
   🫧 Currently pursuing a BE in Information Technology at Jadavpur University <br>
 
