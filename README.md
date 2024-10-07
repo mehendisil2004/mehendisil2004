@@ -13,9 +13,9 @@
 
 ## 🍥 Languages and Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehendisil2004&show_icons=true&locale=en&layout=compact" alt="mehendisil2004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehendisil2004&show_icons=true&locale=en" alt="mehendisil2004" /></p>
+![](https://github-readme-stats.vercel.app/api?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=true) </br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehendisil2004&theme=omni&hide_border=true)
 
 
 ## ☁️ Connent with me:
@@ -26,5 +26,8 @@
 
 ## 🫧 Github Trophies:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehendisil2004" alt="mehendisil2004" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=mehendisil2004&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+##
+
+[![](https://visitcount.itsvg.in/api?id=mehendisil2004&icon=7&color=10)](https://visitcount.itsvg.in)
