@@ -1,5 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+Mehendi+Sil!+%F0%9F%91%8B)](https://git.io/typing-svg)
-
+![MasterHead](https://i.pinimg.com/originals/01/d4/61/01d461b2b6ec125a5dee7cade0a546ab.jpg)
 
 ## 🤍 About me:
 🫧 Currently pursuing a BE in Information Technology at Jadavpur University <br>
