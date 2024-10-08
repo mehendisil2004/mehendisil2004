@@ -6,9 +6,9 @@
 
 ## 🤍 About me:
 <div>
-  <img src="https://i.pinimg.com/originals/8a/89/bc/8a89bcaa605eaea933b574395d979804.gif" alt="MasterHead" width="130" align="right"/>
+  <img src="https://i.pinimg.com/originals/8a/89/bc/8a89bcaa605eaea933b574395d979804.gif" alt="MasterHead" width="110" align="right"/>
   
-  🫧 Currently pursuing a BE in Information Technology at Jadavpur University <br>
+  ☁︎ Currently pursuing BE in Information Technology at Jadavpur University <br>
 
   🧸 Passionate about software development and exploring innovative solutions <br>
 
@@ -26,7 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </br>
 <br>
 
-## ☁️ Connent with me:
+## 💭 Connent with me:
 <p align="left">
 <a href="https://linkedin.com/in/mehendi-sil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehendi-sil" height="30" width="40" /></a>
 <a href="https://instagram.com/mehendisil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehendisil" height="30" width="40" /></a>
