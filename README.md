@@ -1,12 +1,12 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+Mehendi+Sil!+%F0%9F%91%8B)](https://git.io/typing-svg)
 <div align="right">
-  <img src="https://64.media.tumblr.com/946383e0682f7fbe9e5d614ace621fd4/4c6006bc70b8d333-4e/s1280x1920/d744898b732996370d247719b799cd590a9f9689.gifv" alt="MasterHead" style="width: 100%; max-width: 1000px; height: auto;" align="centre" />
+  <img src="https://i.pinimg.com/originals/dc/71/5e/dc715ebaa938417aec6c0de5da556612.png" alt="MasterHead" style="width: 100%; max-width: 1000px; height: auto;" align="centre" />
 </div> 
 <br>
 
 ## 🤍 About me:
 <div>
-  <img src="https://i.pinimg.com/originals/8a/89/bc/8a89bcaa605eaea933b574395d979804.gif" alt="MasterHead" width="110" align="right"/>
+  <img src="https://i.pinimg.com/originals/12/89/fd/1289fd299db50a613d213d27969eeabf.gif" alt="MasterHead" width="150" align="right"/>
   
   ☁︎ Currently pursuing BE in Information Technology at Jadavpur University <br>
 
