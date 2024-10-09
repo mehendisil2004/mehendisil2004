@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+Mehendi+Sil!+%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+Mehendi+Sil!+%F0%9F%91%8B)](https://git.io/mehendisil2004)
 <div align="right">
   <img src="https://i.pinimg.com/originals/dc/71/5e/dc715ebaa938417aec6c0de5da556612.png" alt="MasterHead" style="width: 100%; max-width: 1000px; height: auto;" align="centre" />
 </div> 
