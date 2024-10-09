@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+Mehendi+Sil!+%F0%9F%91%8B)](https://github.com/mehendisil2004)
 <div align="right">
-  <img src="https://github.com/user-attachments/assets/c2f788d6-6759-4727-a836-c11c2ecadd1c" alt="MasterHead" style="width: 100%; max-width: 1000px; height: auto;" align="centre" />
+  <img src="https://github.com/user-attachments/assets/c4defa45-1003-49cb-bc16-a9b52b96d144" alt="MasterHead" style="width: 100%; max-width: 1000px; height: auto;" align="centre" />
 </div> 
 
 ## 🤍 About me:
