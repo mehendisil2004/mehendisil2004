@@ -5,7 +5,7 @@
 
 ## 🤍 About me:
 <div>
-  <img src="https://github.com/user-attachments/assets/84807063-af43-4276-a715-3efb889bef08" alt="MasterHead" width="160" align="right"/>
+  <img src="https://github.com/user-attachments/assets/16f00d85-d9b8-41b6-bf39-d728434706be" alt="MasterHead" width="160" align="right"/>
   
   ☁︎ Currently pursuing BE in Information Technology at Jadavpur University <br>
 
