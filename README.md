@@ -39,21 +39,11 @@
 
 ## 🐚 GSSOC(24)Extd Badges
 <div align="left">
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" height="80px" />
-  </a>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" height="80px" />
-  </a>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" height="80px" />
-  </a>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px" height="80px" />
-  </a>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
-  </a>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="18%" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="18%" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="18%" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="18%" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="18%" />
 </div>
 <br> <br>
 
