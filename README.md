@@ -7,11 +7,11 @@
 <div>
   <img src="https://github.com/user-attachments/assets/16f00d85-d9b8-41b6-bf39-d728434706be" alt="MasterHead" width="160" align="right"/>
   
-  ☁︎ Currently working on open source projects <br>
+  ☁︎ Currently involved in various open-source projects <br>
 
-  🧸 Passionate about web development and exploring innovative solutions <br>
+  🧸 Passionate about web development and innovative solutions <br>
 
-  ⛸️ Enjoy honing strategic thinking through strategic games like chess <br>
+  ⛸️ Enjoy developing strategic thinking through playing chess <br>
 </div>
 <br>
 
