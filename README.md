@@ -7,9 +7,9 @@
 <div>
   <img src="https://github.com/user-attachments/assets/16f00d85-d9b8-41b6-bf39-d728434706be" alt="MasterHead" width="160" align="right"/>
   
-  ☁︎ Currently pursuing BE in Information Technology at Jadavpur University <br>
+  ☁︎ Currently working on open source projects <br>
 
-  🧸 Passionate about software development and exploring innovative solutions <br>
+  🧸 Passionate about web development and exploring innovative solutions <br>
 
   ⛸️ Enjoy honing strategic thinking through strategic games like chess <br>
 </div>
