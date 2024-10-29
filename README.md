@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/c4defa45-1003-49cb-bc16-a9b52b96d144" alt="MasterHead" style="width: 100%; max-width: 1000px; height: auto;" align="centre" />
 </div> 
 
-## 🤍 About me:
+## 🩷 About me:
 <div>
   <img src="https://github.com/user-attachments/assets/16f00d85-d9b8-41b6-bf39-d728434706be" alt="MasterHead" width="160" align="right"/>
   
