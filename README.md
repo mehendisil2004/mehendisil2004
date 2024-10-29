@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react,mysql,bootstrap,figma,github,git&theme=dark)](https://github.com/mehendisil2004) <br>
 <br>
 
-## ⚙️ Languages and Stats:
+## 🍥 Languages and Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </br>
