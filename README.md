@@ -48,7 +48,7 @@
 <br> 
 
 ## 🌱 Hacktoberfest Badges
-[![An image of @mehendisil2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehendisil2004)](https://holopin.io/@mehendisil2004)
+[![Holopin badges](https://holopin.me/mehendisil2004)](https://holopin.io/@mehendisil2004)
 <br> <br>
 
 [![](https://visitcount.itsvg.in/api?id=mehendisil2004&icon=7&color=10)](https://visitcount.itsvg.in)
