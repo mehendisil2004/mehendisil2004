@@ -32,6 +32,11 @@
 </p> 
 <br>
 
+## 🪽 Github Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=mehendisil2004&theme=radical&no-frame=true&no-bg=false&margin-w=4) <br>
+<br>
+
 ## 🪙 GSSOC(24)Extd Badges
 <div align="left">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="13%" />
@@ -45,10 +50,5 @@
 ## 🌱 Hacktoberfest Badges
 [![Holopin badges](https://holopin.me/mehendisil2004)](https://holopin.io/@mehendisil2004)
 <br> <br>
-
-## 🪽 Github Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=mehendisil2004&theme=radical&no-frame=true&no-bg=false&margin-w=4) <br>
-<br>
 
 [![](https://visitcount.itsvg.in/api?id=mehendisil2004&icon=7&color=10)](https://visitcount.itsvg.in)
