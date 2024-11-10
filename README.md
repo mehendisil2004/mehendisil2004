@@ -26,10 +26,10 @@
 
 ## 💭 Connent with me:
 <p align="left">
-<a href="https://linkedin.com/in/mehendi-sil" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="mehendisil" /></a> &nbsp;
+<a href="https://linkedin.com/in/mehendi-sil" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="mehendi-sil" /></a> &nbsp;
 <a href="https://instagram.com/mehendisil" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="mehendisil" /></a> &nbsp;
-<a href="https://discord.gg/DYMkATHUhG" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="mehendisil" /></a> &nbsp;
-<a href="mailto:mehendisil4@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="mehendisil" /></a> &nbsp;
+<a href="https://discord.gg/j8Q3XXvdf4" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="mehendisil2004" /></a> &nbsp;
+<a href="mailto:mehendisil4@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="mehendisil4@gmail.com" /></a> &nbsp;
 </p> 
 <br>
 
