@@ -16,7 +16,7 @@
 <br>
 
 ## 🎧 Technologies and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react,mysql,bootstrap,figma,github,git&theme=dark)](https://github.com/mehendisil2004) <br>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react&theme=dark)](https://github.com/mehendisil2004) <br>
 <br>
 
 ## 🍥 Languages and Stats:
