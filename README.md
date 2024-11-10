@@ -12,12 +12,15 @@
   🧸 Passionate about web development and innovative solutions <br>
 
   ⛸️ Enjoy developing strategic thinking through playing chess <br>
-</div>
-<br>
+</div> 
 
 ## 🎧 Technologies and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react,mysql,tailwindcss,bootstrap,figma,github,git&theme=dark&perline=6)](https://github.com/mehendisil2004) <br>
-<br>
+<p align="left">
+  <a >
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mysql,tailwindcss,bootstrap,figma,github,git&theme=dark&perline=6" />
+  </a>
+</p>
 
 ## 🍥 Languages and Stats:
 
@@ -31,12 +34,10 @@
 <a href="https://discord.gg/j8Q3XXvdf4" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="mehendisil2004" /></a> &nbsp;
 <a href="mailto:mehendisil4@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="mehendisil4@gmail.com" /></a> &nbsp;
 </p> 
-<br>
 
 ## 🪽 Github Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=mehendisil2004&theme=radical&no-frame=true&no-bg=false&margin-w=4) <br>
-<br>
 
 ## 🪙 GSSOC(24)Extd Badges
 <div align="left">
@@ -46,10 +47,9 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="13%" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="13%" />
 </div>
-<br> 
 
 ## 🌱 Hacktoberfest Badges
 [![Holopin badges](https://holopin.me/mehendisil2004)](https://holopin.io/@mehendisil2004)
-<br> <br>
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=mehendisil2004&icon=7&color=10)](https://visitcount.itsvg.in)
