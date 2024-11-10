@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mehendi-sil" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="mehendisil" /></a>
 <a href="https://instagram.com/mehendisil" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="mehendisil" /></a>
-<a href="https://discord.gg/https://discord.gg/aZHUBjpB" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="mehendisil" /></a>
+<a href="https://discord.gg/DYMkATHUhG" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="mehendisil" /></a>
 </p> 
 <br>
 
