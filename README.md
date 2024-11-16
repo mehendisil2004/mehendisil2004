@@ -17,23 +17,14 @@
 ## 🎧 Technologies and Tools:
 <p align="left">
   <a >
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react&theme=dark&perline=6" />
-    <img src="https://skillicons.dev/icons?i=mysql,tailwindcss,bootstrap,figma,github,git&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,mysql,bootstrap,figma,git&theme=dark&perline=10" />
   </a>
 </p>
 
-## 🍥 Languages and Stats:
+## 💭 Languages and Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </br>
-
-## 💭 Connent with me:
-<p align="left">
-<a href="https://linkedin.com/in/mehendi-sil" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="mehendi-sil" /></a> &nbsp;
-<a href="https://instagram.com/mehendisil" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="mehendisil" /></a> &nbsp;
-<a href="https://discord.gg/j8Q3XXvdf4" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="mehendisil2004" /></a> &nbsp;
-<a href="mailto:mehendisil4@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="mehendisil4@gmail.com" /></a> &nbsp;
-</p> 
 
 ## 🪽 Github Trophies:
 
@@ -41,12 +32,12 @@
 
 ## 🪙 GSSOC(24)Extd Badges
 <div align="left">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="13%" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="13%" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="13%" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="13%" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="13%" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="13%" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="14%" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="14%" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="14%" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="14%" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="14%" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="14%" />
 </div>
 
 ## 🌱 Hacktoberfest Badges
