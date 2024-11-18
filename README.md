@@ -11,7 +11,7 @@
   
   ☁️ Passionate about web development and innovative solutions <br>
   
-  🪴 Enjoy developing strategic thinking through playing chess <br>
+  ⛸️ Enjoy developing strategic thinking through playing chess <br>
 </div> 
 
 ## 🎧 Technologies and Tools:
