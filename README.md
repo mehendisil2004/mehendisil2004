@@ -23,14 +23,10 @@
 
 ## 💭 Languages and Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehendisil2004&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </br>
+![](https://github-readme-stats.vercel.app/api?username=mehendisil2004&theme=buefy&hide_border=true&show_icons=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehendisil2004&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </br>
 
-## 🪽 Github Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=mehendisil2004&theme=radical&no-frame=true&no-bg=false&margin-w=4) <br>
-
-## 🪙 GSSOC(24)Extd Badges
+## 🪙 GSSOC Badges
 <div align="left">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="14%" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="14%" />
